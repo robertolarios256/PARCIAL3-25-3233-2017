@@ -1,0 +1,11 @@
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\bin\Debug\MDIPARCIAL.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\bin\Debug\MDIPARCIAL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\bin\Debug\MDIPARCIAL.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.Datos.resources
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.Form1.resources
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.Operaciones.resources
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.Properties.Resources.resources
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.csproj.GenerateResource.Cache
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.exe
+c:\users\lab3\documents\visual studio 2013\Projects\MDIPARCIAL\MDIPARCIAL\obj\Debug\MDIPARCIAL.pdb
